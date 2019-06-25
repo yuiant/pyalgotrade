@@ -102,3 +102,22 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*pyc
+MANIFEST
+doc/_build
+.idea
+.coverage
+.coverage.*
+.ipynb_checkpoints
+.ropeproject
+.tox
+.pytest_cache
+
+/venv
+/data
+/dist
+/build
+/PyAlgoTrade.egg-info
+/notebooks
+
+/testcases/credentials.py
